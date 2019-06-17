@@ -29,3 +29,5 @@ At the end of the file add
 ```php
   require DIR_FS_CATALOG . 'includes/functions/help_desk.php'; // help desk ticketing system add-on
 ```
+
+4. Open Administration Tool (Backend) in menu Help Desk click Start
