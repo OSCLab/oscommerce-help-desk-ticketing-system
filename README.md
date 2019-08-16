@@ -1,4 +1,5 @@
 # Help Desk Ticketing System - osCommerce add-on
+
 Customer service is the most important part of each online store. You have to receive message from customers, answer them and solve their problem. It can be confusing and chaotic. As a solution coming our add-on. Perfect customer support ticket system.
 
 * Administrator workflow organized to minimize time waste 
@@ -14,6 +15,7 @@ Compatible With:
 * Minimum PHP Version: 7.0
 
 ## Installation
+
 1. Backup all files and database!
 
 2. Unzip the archive and upload the files on server.
